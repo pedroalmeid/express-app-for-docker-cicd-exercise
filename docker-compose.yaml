@@ -1,6 +1,6 @@
 services:
   express-app:
-    image: pedrojosealmeida/express-app:latest
+    image: pedrojosealmeid/express-app:latest
     ports:
       - 8080:8080
     container_name: express-app-cicd-exercise
